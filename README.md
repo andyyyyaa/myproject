@@ -7,7 +7,7 @@ This is a program that can analysis people's slow golf motion and conpare it to 
 
  $ cd myproject 
  
-3, run the code in VScode
+3, run the code myproject1.py (if not work use myproject.py) in VScode
 
 4, There will be a hint that tells you to type in the file name and it can output a vedio with the posenet and rate the similarity with Tiger's motion
 # Algorithm

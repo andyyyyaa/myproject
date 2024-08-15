@@ -1,5 +1,5 @@
 # Golf Motion Analysis
-This is a program that can analysis people's slow golf motion and conpare it to Tiger Woods' swing and rate the similarity of their movement. This program can help you improve the swing and do better in golf.
+This is a program that can analysis people's slow golf motion and compare it to Tiger Woods' swing and rate the similarity of their movement. This program can help you improve the swing and do better in golf.
 # DIRECTION 
 1, Download the Jetson-Inference package to run the code
 

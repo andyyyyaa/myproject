@@ -16,5 +16,6 @@ The program uses the posenet and the cosine similarity algorithm, I can use it t
 https://github.com/andyyyyaa/jetson-inference
 # Example
 you can have a look of the example output in annotated_output.mp4 but make sure to delete the annotated_output.mp4 befor you run the code
+# VIDEO
 This is the vedio that demostrate the use and function of the program
-https://drive.google.com/file/d/1M7_jPJXNFbaBrMOeEScxZXoC0paGJSvN/view?usp=sharing 
+https://drive.google.com/file/d/1Zr9IDIUlFHxImHgRqb3qarSHP73ZGxP4/view?usp=sharing
